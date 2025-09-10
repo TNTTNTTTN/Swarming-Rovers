@@ -7,6 +7,7 @@
 |---|---|
 |OS|  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)|
 | 프로그래밍 <br/> 언어 | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cpp](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cplusplus&logoColor=white) |
+| 로보틱스 | ![ROS2](https://img.shields.io/badge/ROS2-22314E?logo=ros&logoColor=fff&style=for-the-badge) |
 | 프로젝트 관리 도구 | ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white) |
 
 ## 개발 알고리즘 구현
